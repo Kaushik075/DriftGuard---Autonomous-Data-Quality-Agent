@@ -32,21 +32,11 @@ The workflow executes every 6 hours, scans production telemetry data, evaluates 
 
 ## Tech Stack
 
-n8n · PostgreSQL · Neon.tech · Python · JavaScript · Docker · Slack API · SQL
+n8n · PostgreSQL · Neon.tech · Python · Slack API · SQL
 
 ## Screenshots
 
-Workflow Architecture
 
-"Architecture" (./screenshots/architecture.png)
-
-SQL Validation
-
-"SQL Validation" (./screenshots/sql-validation.png)
-
-Real-Time Slack Alert
-
-"Slack Alert" (./screenshots/slack-alert.png)
 
 
 ## Future Improvements
