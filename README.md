@@ -2,6 +2,9 @@
 Production-style data quality monitoring system built to detect silent failures in telemetry pipelines before they impact dashboards, analytics, and downstream business decisions. 
 
 
+<img width="1475" height="552" alt="Image" src="https://github.com/user-attachments/assets/cc5ec530-4fbf-42ed-96f6-ef6b24dfa796" />
+
+
 ## Problem
 
 Traditional monitoring tools tell you when a service is down. They don't tell you when your data is wrong.
@@ -34,9 +37,14 @@ The workflow executes every 6 hours, scans production telemetry data, evaluates 
 
 n8n · PostgreSQL · Neon.tech · Python · Slack API · SQL
 
-## Screenshots
 
 
+
+<img width="1181" height="492" alt="Image" src="https://github.com/user-attachments/assets/e3582f7b-f954-427f-8e9f-e66bdc18e0f6" />
+
+---
+
+<img width="1098" height="286" alt="Image" src="https://github.com/user-attachments/assets/5e9514ce-3316-4ba1-b545-d8fa33691af2" />
 
 
 ## Future Improvements
