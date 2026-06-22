@@ -37,6 +37,7 @@ The workflow executes every 6 hours, scans production telemetry data, evaluates 
 
 n8n · PostgreSQL · Neon.tech · Python · Slack API · SQL
 
+---
 
 
 
